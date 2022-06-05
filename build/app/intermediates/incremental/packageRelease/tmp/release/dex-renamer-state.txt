@@ -1,0 +1,4 @@
+#Sun Nov 28 21:24:36 COT 2021
+base.0=/Users/arielecavadia/Documents/Proyectos/Flutter/Ceiba_Software/app/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
